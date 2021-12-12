@@ -1,0 +1,4 @@
+bool f_sqr(int x)
+{
+   return ( x * x);
+}
