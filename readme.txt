@@ -1,1 +1,1 @@
-Learning git repository. Pull Push
+Изучаем Git. Pull/Push
