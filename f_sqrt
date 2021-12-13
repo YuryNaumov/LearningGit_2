@@ -1,0 +1,4 @@
+int f_sqra(int x)
+{
+   return ( x^0.5 );
+}
