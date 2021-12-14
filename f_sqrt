@@ -1,0 +1,4 @@
+double f_sqrt(int x)
+{
+   return ( x^0.5 );
+}
